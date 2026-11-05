@@ -1,0 +1,16 @@
+package Loops03;
+
+public class EvenNumbers {
+    static void main() {
+        System.out.println("Even Numbers are:");
+        for(int i=1; i<=100; i++){
+          if (i%2==0)  System.out.print(i+ " ");
+        }
+    }
+}
+// for printing table of 17
+//static void main() {
+ //  for (int i=1; i<=10; i++){
+  //     System.out.println(i*17+ " ");
+  // }
+ // }
