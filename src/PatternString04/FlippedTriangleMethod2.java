@@ -11,7 +11,7 @@ public class FlippedTriangleMethod2 {
                 System.out.print("  ");
             }
             for (int j=1;j<=i;j++){ // for stars
-                System.out.print("* ");
+                System.out.print("* ");// for numbers use j sout(j+" ");
             }
             System.out.println();
         }
