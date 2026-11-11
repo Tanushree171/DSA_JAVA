@@ -1,4 +1,4 @@
-package Methods04;
+package Methods05;
 
 public class Arguments {
     static void max(int a, int b, int c) { //parameters
