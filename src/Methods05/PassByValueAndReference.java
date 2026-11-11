@@ -1,4 +1,4 @@
-package Methods04;
+package Methods05;
 
 public class PassByValueAndReference {
     static void change(int x ) {
