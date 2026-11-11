@@ -1,4 +1,4 @@
-package Methods04;
+package Methods05;
 
 public class Syntax {
     static void main() {// this is our main function it will always and always runs first
