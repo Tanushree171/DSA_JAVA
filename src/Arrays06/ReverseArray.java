@@ -5,7 +5,7 @@ public class ReverseArray {
         int []arr = {6,8,1,2,4,9,7,5,3};
         int n = arr.length;
         int i =0, j=n-1;
-        while(i<j){
+        while(i<j){// using while loop
             int temp = arr[i]; // temp is used for swapping
             arr[i] = arr[j];
             arr[j] = temp;
