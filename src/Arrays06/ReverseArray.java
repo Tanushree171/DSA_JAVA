@@ -12,6 +12,6 @@ public class ReverseArray {
             i++;
             j--;
         }
-        for (int ele: arr) System.out.print(ele+" ");
+        for (int ele: arr) System.out.println(ele);
     }
 }
